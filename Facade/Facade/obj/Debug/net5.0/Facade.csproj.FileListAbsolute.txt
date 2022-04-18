@@ -1,0 +1,15 @@
+/Users/andreyipati/Projects/Facade/Facade/bin/Debug/net5.0/Facade.deps.json
+/Users/andreyipati/Projects/Facade/Facade/bin/Debug/net5.0/Facade.runtimeconfig.json
+/Users/andreyipati/Projects/Facade/Facade/bin/Debug/net5.0/Facade.runtimeconfig.dev.json
+/Users/andreyipati/Projects/Facade/Facade/bin/Debug/net5.0/Facade.dll
+/Users/andreyipati/Projects/Facade/Facade/bin/Debug/net5.0/ref/Facade.dll
+/Users/andreyipati/Projects/Facade/Facade/bin/Debug/net5.0/Facade.pdb
+/Users/andreyipati/Projects/Facade/Facade/obj/Debug/net5.0/Facade.csproj.AssemblyReference.cache
+/Users/andreyipati/Projects/Facade/Facade/obj/Debug/net5.0/Facade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyipati/Projects/Facade/Facade/obj/Debug/net5.0/Facade.AssemblyInfoInputs.cache
+/Users/andreyipati/Projects/Facade/Facade/obj/Debug/net5.0/Facade.AssemblyInfo.cs
+/Users/andreyipati/Projects/Facade/Facade/obj/Debug/net5.0/Facade.csproj.CoreCompileInputs.cache
+/Users/andreyipati/Projects/Facade/Facade/obj/Debug/net5.0/Facade.dll
+/Users/andreyipati/Projects/Facade/Facade/obj/Debug/net5.0/ref/Facade.dll
+/Users/andreyipati/Projects/Facade/Facade/obj/Debug/net5.0/Facade.pdb
+/Users/andreyipati/Projects/Facade/Facade/obj/Debug/net5.0/Facade.genruntimeconfig.cache

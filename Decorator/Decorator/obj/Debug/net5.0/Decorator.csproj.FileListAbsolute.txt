@@ -1,0 +1,15 @@
+/Users/andreyipati/Projects/Decorator/Decorator/bin/Debug/net5.0/Decorator.deps.json
+/Users/andreyipati/Projects/Decorator/Decorator/bin/Debug/net5.0/Decorator.runtimeconfig.json
+/Users/andreyipati/Projects/Decorator/Decorator/bin/Debug/net5.0/Decorator.runtimeconfig.dev.json
+/Users/andreyipati/Projects/Decorator/Decorator/bin/Debug/net5.0/Decorator.dll
+/Users/andreyipati/Projects/Decorator/Decorator/bin/Debug/net5.0/ref/Decorator.dll
+/Users/andreyipati/Projects/Decorator/Decorator/bin/Debug/net5.0/Decorator.pdb
+/Users/andreyipati/Projects/Decorator/Decorator/obj/Debug/net5.0/Decorator.csproj.AssemblyReference.cache
+/Users/andreyipati/Projects/Decorator/Decorator/obj/Debug/net5.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyipati/Projects/Decorator/Decorator/obj/Debug/net5.0/Decorator.AssemblyInfoInputs.cache
+/Users/andreyipati/Projects/Decorator/Decorator/obj/Debug/net5.0/Decorator.AssemblyInfo.cs
+/Users/andreyipati/Projects/Decorator/Decorator/obj/Debug/net5.0/Decorator.csproj.CoreCompileInputs.cache
+/Users/andreyipati/Projects/Decorator/Decorator/obj/Debug/net5.0/Decorator.dll
+/Users/andreyipati/Projects/Decorator/Decorator/obj/Debug/net5.0/ref/Decorator.dll
+/Users/andreyipati/Projects/Decorator/Decorator/obj/Debug/net5.0/Decorator.pdb
+/Users/andreyipati/Projects/Decorator/Decorator/obj/Debug/net5.0/Decorator.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/andreyipati/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.deps.json
+/Users/andreyipati/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.runtimeconfig.json
+/Users/andreyipati/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.runtimeconfig.dev.json
+/Users/andreyipati/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.dll
+/Users/andreyipati/Projects/Adapter/Adapter/bin/Debug/net5.0/ref/Adapter.dll
+/Users/andreyipati/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.pdb
+/Users/andreyipati/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.csproj.AssemblyReference.cache
+/Users/andreyipati/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyipati/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.AssemblyInfoInputs.cache
+/Users/andreyipati/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.AssemblyInfo.cs
+/Users/andreyipati/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/andreyipati/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.dll
+/Users/andreyipati/Projects/Adapter/Adapter/obj/Debug/net5.0/ref/Adapter.dll
+/Users/andreyipati/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.pdb
+/Users/andreyipati/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.genruntimeconfig.cache
