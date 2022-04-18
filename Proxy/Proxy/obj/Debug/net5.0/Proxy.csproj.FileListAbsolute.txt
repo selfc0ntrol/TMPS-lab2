@@ -1,0 +1,15 @@
+/Users/andreyipati/Projects/Proxy/Proxy/bin/Debug/net5.0/Proxy.deps.json
+/Users/andreyipati/Projects/Proxy/Proxy/bin/Debug/net5.0/Proxy.runtimeconfig.json
+/Users/andreyipati/Projects/Proxy/Proxy/bin/Debug/net5.0/Proxy.runtimeconfig.dev.json
+/Users/andreyipati/Projects/Proxy/Proxy/bin/Debug/net5.0/Proxy.dll
+/Users/andreyipati/Projects/Proxy/Proxy/bin/Debug/net5.0/ref/Proxy.dll
+/Users/andreyipati/Projects/Proxy/Proxy/bin/Debug/net5.0/Proxy.pdb
+/Users/andreyipati/Projects/Proxy/Proxy/obj/Debug/net5.0/Proxy.csproj.AssemblyReference.cache
+/Users/andreyipati/Projects/Proxy/Proxy/obj/Debug/net5.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyipati/Projects/Proxy/Proxy/obj/Debug/net5.0/Proxy.AssemblyInfoInputs.cache
+/Users/andreyipati/Projects/Proxy/Proxy/obj/Debug/net5.0/Proxy.AssemblyInfo.cs
+/Users/andreyipati/Projects/Proxy/Proxy/obj/Debug/net5.0/Proxy.csproj.CoreCompileInputs.cache
+/Users/andreyipati/Projects/Proxy/Proxy/obj/Debug/net5.0/Proxy.dll
+/Users/andreyipati/Projects/Proxy/Proxy/obj/Debug/net5.0/ref/Proxy.dll
+/Users/andreyipati/Projects/Proxy/Proxy/obj/Debug/net5.0/Proxy.pdb
+/Users/andreyipati/Projects/Proxy/Proxy/obj/Debug/net5.0/Proxy.genruntimeconfig.cache
